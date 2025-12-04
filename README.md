@@ -1,6 +1,10 @@
-# Hi, I'm Natthan Elias 👋
+<div align="center">
+  <img src="foto_3.4_casamento.jpeg" width="180" alt="Natthan Elias">
+  
+  # Hi, I'm Natthan Elias 👋
 
-**Computer Science Graduate | AI/ML Developer**
+  **Computer Science Graduate | AI/ML Developer**
+</div>
 
 I am a backend-focused developer specializing in **Artificial Intelligence** and **Multi-Agent Systems**. With a background in Computer Science and ongoing studies in Psychology, I build intelligent, human-centric solutions using Large Language Models (LLMs).
 
@@ -9,7 +13,7 @@ Currently focused on bridging the gap between technical implementation and socia
 ### 🛠 Technical Stack
 
 * **Languages:** Python, Node.js
-* **AI/ML:** LLMs, LangChain, Google ADK, LangGraph, Multi-Agent Systems, PyTorch/TensorFlow
+* **AI/ML:** LLMs, LangChain, LangGraph, Google ADK, Multi-Agent Systems, PyTorch/TensorFlow
 * **Cloud & Backend:** AWS, Microservices Architecture
 
 ### 🤝 Let's Connect
