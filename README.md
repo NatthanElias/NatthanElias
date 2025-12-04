@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Natthan Elias 👋
 
-<!--
-**NatthanElias/NatthanElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Graduate | AI/ML Developer**
 
-Here are some ideas to get you started:
+I am a backend-focused developer specializing in **Artificial Intelligence** and **Multi-Agent Systems**. With a background in Computer Science and ongoing studies in Psychology, I build intelligent, human-centric solutions using Large Language Models (LLMs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on bridging the gap between technical implementation and social impact.
+
+### 🛠 Technical Stack
+
+* **Languages:** Python, Node.js
+* **AI/ML:** LLMs, LangChain, Google ADK, LangGraph, Multi-Agent Systems, PyTorch/TensorFlow
+* **Cloud & Backend:** AWS, Microservices Architecture
+
+### 🤝 Let's Connect
+
+I am looking to network with fellow AI/ML engineers, tech leaders, and recruiters.
+
+[LinkedIn](https://www.linkedin.com/in/natthan-elias/) • [Email](mailto:natthandosantos@gmail.com)
